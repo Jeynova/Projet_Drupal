@@ -1,0 +1,4 @@
+name:        Academy
+description: Formation
+type:        module
+core :       8.x
